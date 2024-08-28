@@ -2,6 +2,16 @@
   "dependencies": {
     "express": "^4.19.2",
     "mongoose": "^8.5.4",
-    "nodemon": "^3.1.4"
-  }
+    "nodemon": "^3.1.4",
+    "react": "^18.3.1"
+  },
+  "name": "sih2k24",
+  "version": "1.0.0",
+  "description": "Hospital management app for SIH",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The Holocrons",
+  "license": "ISC"
 }
